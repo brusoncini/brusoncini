@@ -1,10 +1,10 @@
 ### Hello! I'm Bruna 💕
 
-- 🌱 I’m studying and creating personal projects to become a Junior Developer in the future.
+- 🌱 Studying Computer Science.
 - 🔭 I'm interested in both, front and back-end.
 - 📫 How to reach me: soncinibruna@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm also an artist!
+- ⚡ Fun fact: I'm a digital artist!
 
 ##
 
