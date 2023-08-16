@@ -1,10 +1,10 @@
-### Hello! I'm Bruna 💕
+### Olá! Eu sou a Bruna! 💕
 
-- 🌱 Studying Computer Science.
-- 🔭 I'm interested in both, front and back-end.
-- 📫 How to reach me: soncinibruna@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a digital artist!
+- 🌱 Estudante de Ciência da Computação (Mackenzie)
+- 🔭 Sou desenvolvedora back-end, mas também faço projetos front-end por diversão
+- 📫 Como me contatar: soncinibruna@gmail.com
+- 😄 Pronomes: ela/dela
+- ⚡ Curiosidade: Sou artista digital!
 
 ##
 
