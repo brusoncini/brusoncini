@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Bruna! 💕
 
 - 🌱 Estudante de Ciência da Computação (Mackenzie)
-- 🔭 Sou desenvolvedora back-end, mas também faço projetos front-end por diversão
+- 🔭 Sou desenvolvedora back-end, mas também faço projetos front-end por querer ser fullstack um dia :D
 - 📫 Como me contatar: soncinibruna@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: Sou artista digital!
