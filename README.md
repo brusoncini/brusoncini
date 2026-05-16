@@ -17,14 +17,7 @@
 
 --- 
 
-<!-- stats -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brusoncini&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brusoncini&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
-<!-- linkedin badge -->
+<!-- badges de contato -->
 <p align="center">
   <a href="mailto:seuemail@exemplo.com">
     <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
